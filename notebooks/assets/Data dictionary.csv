@@ -1,0 +1,27 @@
+Feature,Description
+ID,Store identification
+Tenure in Nuvemshop in months,months as a nuvemshop customer
+Monthly Sales,Total monthly sales
+Employee Count,Company employe count
+Current plan id,Nuvemshop plan id
+Estimated Page Views,Monthly site views
+Rank - Domain,How the site is rank by google search
+Product Count - Domain,Company products in catalog
+Estimated Sales - Domain,Clay sales estimation 
+Combined Followers,Total social networks followers
+Number of technologies,Installed technologies in the website 
+Avg Total Users,Traffic related metrics
+Avg - Total Visits,Traffic related metrics
+Avg - Average Bounce Rate,Traffic related metrics
+Avg - Average Time On Site,Traffic related metrics
+Avg - Average Pages Per Visit,Traffic related metrics
+Avg - real visits,Traffic related metrics
+Followers,Total followers in instagram
+Posts,Total posts in instagram
+Semrush Rank,Semrush site positioning metric
+Organic Keywords,Metrics related to the nature of the traffic
+Organic Traffic,Metrics related to the nature of the traffic
+Adwords Keywords,Metrics related to the nature of the traffic
+Adwords Traffic,Metrics related to the nature of the traffic
+PLA keywords,Metrics related to the nature of the traffic
+Average ticket value,Average ticket value
